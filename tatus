@@ -1,0 +1,27 @@
+*   [33ma57a61f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Merge branch 'iss53'
+[31m|[m[32m\[m  
+[31m|[m * [33m1e74985[m[33m ([m[1;31morigin/iss53[m[33m)[m Finish the new footer [iss 53]
+[31m|[m * [33ma76b059[m Create new footer [iss 53]
+[31m|[m * [33m548cca2[m Create new footer [iss 53]
+* [32m|[m [33m2c8d821[m Fix broken email address
+[32m|[m[32m/[m  
+* [33m5a371eb[m make other changes
+* [33m53da7c7[m try
+[32m|[m * [33m8b9ff88[m[33m ([m[1;32mtesting[m[33m)[m make a change
+[32m|[m[32m/[m  
+* [33md03adc5[m deleting tal.text
+* [33m0741f79[m deleting empty and lostfile
+* [33mddb11c0[m change b.text to b.txt
+* [33mb322098[m commit nothing
+* [33m7fd09ac[m Commit with some files in stage (n purpose)
+* [33mb2d46d5[m new games with git diff
+* [33m85e880f[m commit subTest from Test
+* [33m150ef55[m add  ignore and subTest git repository
+* [33mc941081[m changed b.text and lostfile.text
+* [33me8836e2[m add empty
+* [33m016cac0[m Add lostfile.text
+* [33m91ea26e[m Add tal.text
+* [33m55ddc97[m my commit message about b.text
+* [33m650ba06[m second comment on on a.text
+* [33mdac118c[m Second test
+* [33mf9b89aa[m my first commit
