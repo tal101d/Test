@@ -1,7 +1,7 @@
 Some information about b.text
 new
-
 new 2
+new 3
 
 some changes to check "-p" 2
 # test line
